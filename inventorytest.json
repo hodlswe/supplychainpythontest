@@ -1,0 +1,8 @@
+{
+  "inventory": [
+    { "part_id": 5, "quantity_available": 8 },
+    { "part_id": 8, "quantity_available": 3 },
+    { "part_id": 7, "quantity_available": 10 },
+    { "part_id": 6, "quantity_available": 25 }
+  ]
+}
